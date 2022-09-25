@@ -16,6 +16,7 @@
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjeh&layout=compact&theme=github_dark)](https://github.com/dnjeh/github-readme-stats)
 
+>```I wanna fill contributions pallet to green, so please keep your eyes buttered so you can see my 1 day 1 commit challenge..
 ---
 
 <!-- decoration : https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC -->
