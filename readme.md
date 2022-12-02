@@ -5,7 +5,7 @@
 
 >```//and, THIS is my hand-to-hand Langs```
 
-><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=c#&logoColor=black"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=white"/> <a href="https://github.com/SkriptLang/Skript/releases"><img src="https://img.shields.io/badge/-Sk  -000000?style=flat-square"/></a> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Git&logoColor=white"/>
+><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=white"/> <a href="https://github.com/SkriptLang/Skript/releases"><img src="https://img.shields.io/badge/-Sk  -000000?style=flat-square"/></a> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Git&logoColor=white"/>
 
 >```//and, THIS IS my hand-to-hand Tools```
 
