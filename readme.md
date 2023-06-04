@@ -19,8 +19,7 @@
 >```//I wanna fill contributions pallet to green, so please keep your eyes buttered so you can see my 1 day 1 commit challenge..```
 ---
 
->_```//!(April's first week's Rework-Repositories-week!) Goodbye, my old friend... Today's farewell is to meet again sometime in the future.```_
->```//hehe.. It was second week! haha, April_1st == April_fools_day```
+>_```//I must do repository rework, but it's so...   ..nendokusai..```_
 <!-- decoration : https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC -->
 <!-- badges form: https://shields.io/ -->
 <!-- icons from : https://simpleicons.org/ -->
