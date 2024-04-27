@@ -3,11 +3,9 @@
 
 >```//This is my profile!```
 
-><img src="https://wakatime.com/badge/user/018d1238-7252-427a-aaa1-6633fbc48bb5.svg"/>
-
 >```//and, THIS is my hand-to-hand Langs```
 
-><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-☕️-000000?style=flat-square"/> <a href="https://github.com/SkriptLang/Skript/releases"><img src="https://img.shields.io/badge/-Sk  -000000?style=flat-square"/></a> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Git&logoColor=white"/>
+><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-☕️-000000?style=flat-square"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white"/> <a href="https://github.com/SkriptLang/Skript/releases"><img src="https://img.shields.io/badge/-Sk  -000000?style=flat-square"/></a> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Git&logoColor=white"/>
 
 >```//and, THIS IS my hand-to-hand Tools```
 
@@ -17,6 +15,8 @@
 >```//and, THIS IS MY colorful stats!```
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjeh&layout=compact&theme=github_dark)](https://github.com/dnjeh/github-readme-stats)
+
+> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekj0on1o28)](https://solved.ac/backj0on1o28)
 
 >```//I wanna fill contributions pallet to green, so please keep your eyes buttered so you can see my 1 day 1 commit challenge..```
 ---
