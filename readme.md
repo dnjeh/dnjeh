@@ -9,14 +9,16 @@
 
 >```//and, THIS IS my hand-to-hand Tools```
 
-><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sublimetext&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=FileZilla&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white"/>
+><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sublimetext&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=FileZilla&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white"/>
 ---
 
 >```//and, THIS IS MY colorful stats!```
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjeh&layout=compact&theme=github_dark)](https://github.com/dnjeh/github-readme-stats)
-
-> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekj0on1o28)](https://solved.ac/backj0on1o28)
+> <a>[![Top Langs](https://github-readme-stats-cyan-ten-17.vercel.app/api/top-langs/?username=dnjeh&theme=ambient_gradient&layout=compact&hide=tex,jupyter%20notebook)](https://github.com/dnjeh/github-readme-stats)<a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; <a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekj0on1o28)](https://solved.ac/backj0on1o28) <a>
 
 >```//I wanna fill contributions pallet to green, so please keep your eyes buttered so you can see my 1 day 1 commit challenge..```
 ---
