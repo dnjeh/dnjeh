@@ -14,7 +14,7 @@
 
 >```//and, THIS IS MY colorful stats!```
 
-> <a>[![Top Langs](https://github-readme-stats-cyan-ten-17.vercel.app/api/top-langs/?username=dnjeh&theme=ambient_gradient&layout=compact&hide=tex,jupyter%20notebook)](https://github.com/dnjeh/github-readme-stats)<a>
+> <a>[![Top Langs](https://github-readme-stats-cyan-ten-17.vercel.app/api/top-langs/?username=dnjeh&bg_color=70,dcd0ff,d9c0d9,c9a0dc,7a4f9a&layout=compact&hide=tex,jupyter%20notebook&title_color=7a4f9a&text_color=7a4f9a)](https://github.com/dnjeh/github-readme-stats)<a>
 &nbsp;
 &nbsp;
 &nbsp;
